@@ -1,0 +1,7 @@
+name: Curso-Config-Cookiecutter
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - cookiecutter=1.7.3
+prefix: /home/victorwkey/anaconda3/envs/Curso-Config-Cookiecutter
